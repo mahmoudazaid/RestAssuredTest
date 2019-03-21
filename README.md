@@ -1,7 +1,7 @@
 # RestAssuredTest
 <!-- PROJECT SHIELDS -->
 <p align="center">
-    <a href="https://specflow.org/" alt="SpecFlow">
+    <a href="" alt="RestAssured">
         <img alt="" src=""></a>  
 </p>
 
